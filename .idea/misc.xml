@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Salvador-Lenovo/AndroidStudioProjects/Tarea_2_4/app/src/main/res/layout/activity_capture_bitmap_view.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Salvador-Lenovo/AndroidStudioProjects/Tarea_2_4/app/src/main/res/layout/activity_listado.xml" value="0.22" />
+        <entry key="..\:/Users/Salvador-Lenovo/AndroidStudioProjects/Tarea_2_4/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Salvador-Lenovo/AndroidStudioProjects/Tarea_2_4/app/src/main/res/layout/activity_visualizar_imagen.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Salvador-Lenovo/AndroidStudioProjects/Tarea_2_4/app/src/main/res/layout/item_row.xml" value="0.1641337386018237" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
